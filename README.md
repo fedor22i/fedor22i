@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**fedor22i/fedor22i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anton Novikov.
+From Kyiv, Ukraine.
 
-Here are some ideas to get you started:
+Motivated and detail-oriented software engineer with 8 years of experience in IT support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Work Experience
+Software Engineer
+National Public Broadcasting Company of Ukraine
+12/2016 - Present
+
+#Education
+Specialist academic level
+National Technical University of Ukraine 'Kyiv Polytechnic Institute'​ - Kyiv, Ukraine
+09/2012 - 12/2017
+
+#Technical Skills
+Operating Systems: Windows, Linux
+Tools & Technologies: Avid, PowerShell, Active Directory
+Scripting: PowerShell, Bash, Python
+
+#Certifications
+Linux Basics - Prometheus, 2025
+Programming C++ - Prometheus, 2024
