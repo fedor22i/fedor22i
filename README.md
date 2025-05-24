@@ -3,7 +3,7 @@
 I'm Anton Novikov. \
 From Kyiv, Ukraine. 
 
-Motivated and detail-oriented software engineer with 8 years of experience in IT support.
+Motivated and detail-oriented engineer with 8 years of experience in IT support.
 
 ## Work Experience
 Software Engineer \
